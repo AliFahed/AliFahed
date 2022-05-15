@@ -1,3 +1,3 @@
 # Hi 👋, I'm Ali!
 
-## [Connect with me](https://bio.link/ali_)
+### [Connect with me](https://bio.link/ali_)
