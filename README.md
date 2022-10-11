@@ -1,4 +1,8 @@
 # Hi 👋, I'm Ali!
+I Beleive in life-long learning, open to learn new languages,
+technologies, tools, and explore Web Development Field. My focus
+is in full-stack development, creating web applications using
+JavaScript. Highly interested in Open Source.
 
 ## Tech Stack 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
