@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ali!
-- I Beleive in life-long learning. 
+- I Believe in life-long learning. 
 - Highly interested in Open Source.
 
 ## Tech Stack 
