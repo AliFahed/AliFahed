@@ -2,7 +2,7 @@
 "I am a Web & Mobile Application Developer, focused on utilizing my programming and problem-solving skills to create and improve solutions for complex issues in life and technology.
 <br>
 <br>
-Currently, I am breaking my career path into freelancing and building a program to contribute to solving life/daily goals clarity, avoiding distractions, and achieving goals."
+Currently, I am breaking my career path into freelancing/looking for a full-time role and building a program to contribute to solving life/daily goals clarity, avoiding distractions, and achieving goals."
 
 ## Tech Stack 
 ### Web
