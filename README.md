@@ -34,4 +34,6 @@ Currently, I am breaking my career path into freelancing/looking for a full-time
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 --->
 
+<!--- 
 ### [Connect with me](https://bio.link/ali_)
+--->
